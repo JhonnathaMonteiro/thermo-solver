@@ -1,0 +1,1 @@
+/Users/jhonnatha/Projects/rust/thermo-solver/target/package/thermo-solver-0.1.0/target/debug/libthermo_solver.rlib: /Users/jhonnatha/Projects/rust/thermo-solver/target/package/thermo-solver-0.1.0/src/lib.rs
