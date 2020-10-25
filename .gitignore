@@ -1,5 +1,5 @@
-target/*
+target
 *.swp
 .DS_Store
 *.bk
-target/package/thermo-solver-0.1.0/target/package/thermo-solver-0.1.0.crate
+
