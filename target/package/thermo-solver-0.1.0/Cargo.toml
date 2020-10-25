@@ -15,5 +15,7 @@ edition = "2018"
 name = "thermo-solver"
 version = "0.1.0"
 authors = ["jhonnatha"]
+description = "A library for thermodynamics calculations"
+license = "CC0-1.0"
 
 [dependencies]

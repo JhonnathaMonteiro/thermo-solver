@@ -1,8 +1,10 @@
 [package]
+authors = ["jhonnatha"]
+description = "A library for thermodynamics calculations"
+edition = "2018"
+license = "CC0-1.0"
 name = "thermo-solver"
 version = "0.1.0"
-authors = ["jhonnatha"]
-edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
